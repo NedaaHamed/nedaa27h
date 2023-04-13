@@ -1,0 +1,101 @@
+product_id,category,industry,Business_scale,user_type,no_of_users,deployment,OS,mobile_apps,pricing,rating
+100001,Data Management,Utilities,Large,Business,Single,Cloud,Linux,Y,Freemium,4.5
+100002,Database/ERP,Food,Large,Business,Single,On-Premise,Mac,Y,Freemium,4.5
+100003,Data Analysis,Manufacturing,Large,Business,Single,On-Premise,Linux,N,Open Source,5.0
+100004,Data Analysis,IT,Medium,Business,Mulitple,On-Premise,Mac,Y,Open Source,5.0
+100005,Benchmarking,Food,Medium,Analyst,Mulitple,Cloud,Windows,N,Enterprise,4.2
+100006,Data Analysis,Academia,Large,Analyst,Mulitple,Hybrid,Windows,Y,Freemium,4.5
+100007,Complete BI,IT,Medium,Business,Single,On-Premise,Linux,Y,Freemium,4.2
+100008,DWH,Marketing,Medium,Analyst,Single,Cloud,Linux,Y,Open Source,4.0
+100009,Database/ERP,Manufacturing,Medium,Business,Mulitple,Cloud,Windows,Y,Open Source,3.0
+100010,Data Management,Telecommunications,Medium,Analyst,Mulitple,Hybrid,Linux,Y,Enterprise,4.0
+100011,Business Analytics,Manufacturing,Large,Business,Mulitple,Hybrid,Linux,N,Freemium,5.0
+100012,DWH,Fashion,Large,Analyst,Single,Hybrid,Mac,N,Open Source,4.5
+100013,Database/ERP,Retail,Medium,Business,Single,Hybrid,Mac,N,Open Source,3.5
+100014,Performance Metrics,Utilities,Medium,Analyst,Single,Hybrid,Mac,N,Open Source,4.0
+100015,Web Analytics,IT,Medium,Analyst,Mulitple,Cloud,Windows,N,Enterprise,4.0
+100016,Dashboarding,Manufacturing,Small,Analyst,Single,Hybrid,Mac,Y,Freemium,5.0
+100017,Ad-hoc reporting,Retail,Medium,Business,Mulitple,On-Premise,Windows,N,Enterprise,3.0
+100018,Database/ERP,Utilities,Medium,Business,Single,On-Premise,Windows,N,Enterprise,4.2
+100019,Business Analytics,Consultancy,Large,Analyst,Mulitple,On-Premise,Mac,Y,Open Source,4.5
+100020,Embedded BI,Retail,Large,Analyst,Mulitple,Hybrid,Mac,Y,Freemium,4.5
+100021,Monitoring,Consultancy,Small,Analyst,Mulitple,Hybrid,Windows,N,Open Source,3.0
+100022,Benchmarking,Retail,Small,Business,Single,On-Premise,Linux,N,Open Source,5.0
+100023,ETL/ELT/OLAP,Telecommunications,Small,Business,Single,Cloud,Windows,N,Enterprise,5.0
+100024,Business Analytics,Academia,Small,Business,Single,On-Premise,Windows,Y,Freemium,4.0
+100025,Performance Metrics,Academia,Large,Business,Mulitple,Cloud,Mac,N,Enterprise,3.0
+100026,KPI & Scorecard,IT,Large,Business,Mulitple,Cloud,Linux,Y,Open Source,5.0
+100027,Benchmarking,Fashion,Large,Analyst,Single,On-Premise,Linux,N,Open Source,4.0
+100028,Data Management,Fashion,Medium,Business,Single,On-Premise,Windows,Y,Enterprise,4.0
+100029,Data Analysis,Utilities,Small,Analyst,Mulitple,Hybrid,Windows,Y,Freemium,4.5
+100030,Predictive Analytics,Food,Medium,Analyst,Single,On-Premise,Windows,N,Freemium,4.5
+100031,KPI & Scorecard,Consultancy,Small,Business,Mulitple,On-Premise,Mac,Y,Enterprise,3.0
+100032,Data Management,Pharma,Small,Business,Mulitple,Cloud,Mac,N,Enterprise,4.5
+100033,Embedded BI,Utilities,Large,Business,Mulitple,Cloud,Mac,N,Open Source,3.5
+100034,Behavior analytics,Academia,Medium,Analyst,Mulitple,On-Premise,Windows,N,Enterprise,4.5
+100035,ETL/ELT/OLAP,Marketing,Large,Analyst,Single,On-Premise,Mac,N,Open Source,4.2
+100036,Web Analytics,Retail,Small,Analyst,Single,Hybrid,Windows,Y,Enterprise,4.5
+100037,Business Analytics,Telecommunications,Large,Analyst,Single,On-Premise,Windows,Y,Enterprise,3.0
+100038,Business Analytics,Marketing,Large,Business,Mulitple,Cloud,Mac,N,Enterprise,4.5
+100039,Benchmarking,Consultancy,Large,Business,Mulitple,On-Premise,Mac,Y,Enterprise,5.0
+100040,Dashboarding,Academia,Large,Business,Mulitple,Hybrid,Linux,Y,Enterprise,5.0
+100041,Complete BI,Manufacturing,Large,Analyst,Single,Cloud,Mac,N,Freemium,4.5
+100042,ETL/ELT/OLAP,Manufacturing,Medium,Business,Mulitple,Cloud,Windows,Y,Freemium,4.5
+100043,ETL/ELT/OLAP,Fashion,Small,Business,Mulitple,On-Premise,Linux,Y,Freemium,3.0
+100044,ETL/ELT/OLAP,Fashion,Small,Analyst,Single,Cloud,Linux,Y,Open Source,4.0
+100045,Database/ERP,Marketing,Small,Business,Single,On-Premise,Mac,N,Freemium,4.0
+100046,Ad-hoc reporting,IT,Large,Business,Mulitple,Hybrid,Windows,Y,Enterprise,5.0
+100047,Complete BI,Utilities,Medium,Analyst,Single,On-Premise,Mac,N,Open Source,4.0
+100048,Ad-hoc reporting,Fashion,Small,Business,Mulitple,Hybrid,Mac,Y,Open Source,3.5
+100049,Monitoring,Food,Large,Business,Single,On-Premise,Windows,N,Freemium,3.5
+100050,Predictive Analytics,Telecommunications,Large,Analyst,Mulitple,Hybrid,Mac,N,Freemium,3.0
+100051,Benchmarking,Retail,Small,Business,Mulitple,Cloud,Linux,Y,Enterprise,4.2
+100052,Web Analytics,Manufacturing,Small,Analyst,Mulitple,Hybrid,Mac,N,Open Source,5.0
+100053,KPI & Scorecard,Fashion,Medium,Analyst,Mulitple,Cloud,Windows,N,Open Source,4.2
+100054,Performance Metrics,Retail,Large,Analyst,Single,Hybrid,Linux,Y,Freemium,4.2
+100055,Monitoring,Academia,Medium,Analyst,Mulitple,On-Premise,Linux,N,Enterprise,4.2
+100056,Database/ERP,Manufacturing,Medium,Business,Single,On-Premise,Mac,Y,Freemium,4.0
+100057,Complete BI,Food,Large,Business,Mulitple,Hybrid,Mac,N,Enterprise,4.2
+100058,ETL/ELT/OLAP,Consultancy,Medium,Business,Mulitple,Cloud,Linux,Y,Open Source,4.2
+100059,Dashboarding,Consultancy,Large,Analyst,Single,Hybrid,Mac,N,Open Source,4.0
+100060,Embedded BI,Consultancy,Medium,Analyst,Single,On-Premise,Windows,Y,Enterprise,5.0
+100061,Data Discovery,Consultancy,Large,Analyst,Mulitple,On-Premise,Mac,N,Enterprise,3.0
+100062,Data Analysis,Manufacturing,Small,Business,Single,On-Premise,Linux,N,Freemium,4.5
+100063,Database/ERP,Retail,Large,Business,Single,On-Premise,Linux,N,Enterprise,3.0
+100064,Business Analytics,Marketing,Medium,Analyst,Mulitple,On-Premise,Windows,N,Enterprise,4.2
+100065,Data Management,Fashion,Large,Business,Single,Hybrid,Mac,Y,Open Source,3.5
+100066,Predictive Analytics,Telecommunications,Medium,Business,Mulitple,Cloud,Mac,Y,Enterprise,4.0
+100067,Data Management,Utilities,Small,Analyst,Single,Hybrid,Windows,N,Freemium,4.0
+100068,Ad-hoc reporting,Food,Small,Analyst,Single,Hybrid,Mac,N,Freemium,3.5
+100069,KPI & Scorecard,Utilities,Small,Business,Mulitple,Cloud,Windows,N,Freemium,4.0
+100070,Complete BI,Utilities,Large,Analyst,Mulitple,On-Premise,Windows,Y,Freemium,4.5
+100071,Dashboarding,Marketing,Medium,Analyst,Single,On-Premise,Windows,Y,Open Source,3.0
+100072,Database/ERP,IT,Medium,Business,Single,Hybrid,Windows,Y,Enterprise,4.0
+100073,Ad-hoc reporting,Academia,Large,Business,Single,On-Premise,Mac,N,Open Source,4.5
+100074,Data Discovery,IT,Small,Analyst,Mulitple,Cloud,Mac,Y,Enterprise,4.0
+100075,Data Analysis,Marketing,Small,Analyst,Single,Cloud,Windows,N,Freemium,4.0
+100076,Data Analysis,Fashion,Medium,Business,Mulitple,On-Premise,Windows,N,Open Source,4.2
+100077,Embedded BI,Telecommunications,Large,Analyst,Single,Cloud,Windows,N,Open Source,5.0
+100078,Data Management,Pharma,Large,Analyst,Mulitple,Cloud,Linux,Y,Enterprise,5.0
+100079,Complete BI,Consultancy,Medium,Business,Single,Hybrid,Mac,Y,Enterprise,3.5
+100080,Business Analytics,Manufacturing,Large,Business,Single,On-Premise,Mac,Y,Enterprise,3.0
+100081,Data Analysis,Retail,Large,Business,Single,On-Premise,Mac,N,Enterprise,5.0
+100082,ETL/ELT/OLAP,Academia,Small,Business,Single,Hybrid,Linux,N,Open Source,5.0
+100083,Behavior analytics,Food,Small,Analyst,Single,On-Premise,Windows,N,Enterprise,4.0
+100084,Dashboarding,Food,Small,Analyst,Single,Cloud,Linux,Y,Open Source,3.5
+100085,Data Discovery,Academia,Small,Analyst,Single,On-Premise,Mac,N,Enterprise,4.5
+100086,Web Analytics,Fashion,Medium,Business,Single,Cloud,Mac,N,Freemium,3.0
+100087,Ad-hoc reporting,IT,Large,Business,Mulitple,Cloud,Windows,N,Enterprise,5.0
+100088,DWH,Academia,Medium,Analyst,Single,Cloud,Mac,Y,Freemium,3.5
+100089,Behavior analytics,Pharma,Medium,Business,Single,Hybrid,Linux,N,Freemium,4.2
+100090,Embedded BI,Telecommunications,Small,Analyst,Single,On-Premise,Windows,N,Freemium,5.0
+100091,Predictive Analytics,Manufacturing,Medium,Analyst,Single,On-Premise,Mac,N,Freemium,3.0
+100092,Database/ERP,Manufacturing,Medium,Analyst,Single,Hybrid,Linux,N,Open Source,4.2
+100093,Data Analysis,Marketing,Large,Analyst,Mulitple,On-Premise,Linux,Y,Freemium,3.0
+100094,Web Analytics,Marketing,Medium,Analyst,Mulitple,Hybrid,Windows,N,Enterprise,3.5
+100095,Data Analysis,Marketing,Large,Business,Single,Cloud,Windows,Y,Enterprise,3.5
+100096,Predictive Analytics,Retail,Large,Business,Mulitple,Cloud,Mac,N,Freemium,4.2
+100097,Monitoring,Pharma,Large,Business,Mulitple,Cloud,Mac,Y,Open Source,3.0
+100098,Behavior analytics,IT,Medium,Analyst,Single,Hybrid,Mac,N,Open Source,3.0
+100099,Ad-hoc reporting,Academia,Medium,Analyst,Mulitple,Hybrid,Linux,Y,Enterprise,4.5
+100100,Ad-hoc reporting,Utilities,Small,Analyst,Single,Cloud,Windows,Y,Freemium,3.0
