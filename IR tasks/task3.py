@@ -7,17 +7,16 @@ ps = PorterStemmer()
 ss = SnowballStemmer("english")
 
 doc=[]
-doc1=(input("WRITE YOUR TEXT: "))
+doc.append (input("WRITE YOUR TEXT: "))
 choice=int(input(" Choice number 1: Print tokenized words\n Choice number 2: Print tokenized sentences\n Choice number 3: Print original text\n Choice number 4: STEMMING\n CHOOSE THE ACTION YOU WANT: "))
 
 if choice == 1:
-    print(nltk.word_tokenize(doc1))
+    print(nltk.word_tokenize(doc))
 elif choice == 2:
-    print(nltk.sent_tokenize(doc1))
+    print(nltk.sent_tokenize(doc))
 elif choice == 3:
-    print(doc1)
+    print(doc)
 else:
-    doc.append (doc1)
     choice4=int(input(" Choice 4.1: PORTER STEMMER\n Choice 4.2: SNOWBALL STEMMER\n CHOOSE THE ACTION YOU WANT: "))
     if choice4 == 1:
         for i in doc:
